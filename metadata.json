@@ -1,0 +1,6 @@
+{
+  "name": "The Shower in the Dark & Job or Treat",
+  "description": "A 3D first-person comedy-horror survival game dodging corporate adulthood, toxic grass, and job applications across the bathroom and suburban Dallas streets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
